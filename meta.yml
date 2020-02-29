@@ -1,0 +1,15 @@
+---
+name: Values and Functions
+locale: en
+type: learning
+beta: false
+teacher_info: ''
+language: haskell
+id_format: "%05d"
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+private: false
